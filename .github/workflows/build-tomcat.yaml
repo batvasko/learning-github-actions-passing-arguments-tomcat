@@ -29,6 +29,7 @@ jobs:
         java-package: jdk
         distribution: 'temurin'
         java-version: '17'
+        java-package-version: '21'
             
 #    - name: Setup Java 11
 #      uses: actions/setup-java@v1
